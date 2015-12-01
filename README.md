@@ -1,4 +1,4 @@
-# ghostdriver_template
+# Headless Regression Template
 Template for creating a java project which uses java, gradle, selenium, and phantomjs
 
 Requirements to use:
